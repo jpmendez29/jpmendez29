@@ -24,6 +24,6 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jpmendez29&theme=midnight-purple" alt="jpmendez29" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendez29&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 ![jpmendez29's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmendez29&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmendez29&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
