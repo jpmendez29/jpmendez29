@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpmendez29&label=Profile%20views&color=0e75b6&style=flat" alt="jpmendez29" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jjspliter" target="blank"><img src="https://img.shields.io/twitter/follow/jjspliter?logo=twitter&style=for-the-badge" alt="jjspliter" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jpmendez29?tab=repositories](https://github.com/jpmendez29?tab=repositories)
